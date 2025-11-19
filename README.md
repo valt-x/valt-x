@@ -12,7 +12,7 @@
       <br>
       <strong>Current Focus</strong>
       <br>
-      Building <strong>NLP</strong>. Deep diving into Distributed Systems and Functional Programming. I am exploring how Elixir and OTP can handle high-concurrency workloads better than traditional stacks.
+      Building <strong>NLM</strong>. Deep diving into Distributed Systems and Functional Programming. I am exploring how Elixir and OTP can handle high-concurrency workloads better than traditional stacks.
       <br><br>
       <strong>The Tech Radar</strong>
       <br>
