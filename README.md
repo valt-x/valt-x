@@ -18,9 +18,12 @@
       <br>
       <code>Adopting</code> Elixir, Phoenix, OTP
       <br>
-      <code>Using</code> Python, Docker, TF
       <br>
-      <code>Migrating</code> Flutter → Go
+      <code>Contributor</code>  Open source , Writer 
+      <br>
+      <code>Using</code> Python, Linux and some Sense
+      <br>
+      <code>Migrating</code> Flutter → Swift
     </td>
     <td valign="top" width="50%">
       <h3>🧠 The Mindset</h3>
