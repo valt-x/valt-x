@@ -18,8 +18,7 @@
       <br>
       <code>Adopting</code> Elixir, Phoenix, OTP
       <br>
-      <br>
-      <code>Contributor</code>  Open source , Writer 
+      <code>Contributor</code> Open source , Writer 
       <br>
       <code>Using</code> Python, Linux and some Sense
       <br>
