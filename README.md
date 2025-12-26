@@ -37,7 +37,7 @@
       <br><br>
       <strong>Offline</strong>
       <br>
-      Reading papers, Chennai traffic survival, and dark coffee.
+      Reading papers, survival, and dark coffee.
     </td>
   </tr>
 </table>
