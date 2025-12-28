@@ -20,7 +20,7 @@
       <br>
       <code>Contributor</code> Open source , Writer 
       <br>
-      <code>Using</code> Python, Linux and some Sense
+      <code>Using</code> Nim, Python, Linux and some Sense
       <br>
       <code>Migrating</code> Flutter → Swift
     </td>
@@ -41,6 +41,15 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<div align="left">
+  <h3>⚡ Infrastructure</h3>
+  <blockquote>
+    My distributed nodes and build environments are powered by <a href="https://rackgenius.com"><b>RackGenius</b></a>.
+  </blockquote>
+</div>
 
 <br>
 
