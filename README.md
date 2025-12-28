@@ -1,58 +1,18 @@
-<h1 align="left">Valt aoi.</h1>
+# valt-x
 
-> **Building the nervous system for AI.** > Focused on high-concurrency backend systems (Elixir/OTP) and distributed inference.  
-> Based in **Chennai, IN**.
+Personal development workspace.
 
-<br>
+Current work includes:
+- systems experiments in Nim
+- learning Elixir / OTP
+- small tools in Python
+- Linux-based development
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📍 The Work</h3>
-      <br>
-      <strong>Current Focus</strong>
-      <br>
-      Building <strong>NLM</strong>. Deep diving into Distributed Systems and Functional Programming. I am exploring how Elixir and OTP can handle high-concurrency workloads better than traditional stacks.
-      <br><br>
-      <strong>The Tech Radar</strong>
-      <br>
-      <code>Adopting</code> Elixir, Phoenix, OTP
-      <br>
-      <code>Contributor</code> Open source , Writer 
-      <br>
-      <code>Using</code> Nim, Python, Linux and some Sense
-      <br>
-      <code>Migrating</code> Flutter → Swift
-    </td>
-    <td valign="top" width="50%">
-      <h3>🧠 The Mindset</h3>
-      <br>
-      <strong>Philosophy</strong>
-      <br>
-      I prefer systems that heal themselves over systems that are just "fast."
-      <br><br>
-      <strong>Ask Me About</strong>
-      <br>
-      Questions that start with "How do we scale..." or "Why is the GPU acting weird?"
-      <br><br>
-      <strong>Offline</strong>
-      <br>
-      Reading papers, survival, and dark coffee.
-    </td>
-  </tr>
-</table>
+Builds and experiments run on self-managed infrastructure
+(including RackGenius machines).
 
-<br>
+Most things here started because something annoyed me.
 
-<div align="left">
-  <h3>⚡ Infrastructure</h3>
-  <blockquote>
-    My distributed nodes and build environments are powered by <a href="https://rackgenius.com"><b>RackGenius</b></a>.
-  </blockquote>
-</div>
+Code is iterative and may change without notice.
 
-<br>
-
-<div align="left">
-  <a href="mailto:deeshcode@gmail.com"><b>Email Me</b></a> — <i>I usually respond within 12 hours.</i>
-</div>
+Contact: deeshcode@gmail.com
