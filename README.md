@@ -13,7 +13,6 @@ Most things here started because something annoyed me.
 Code is iterative and may change without notice.
 
 Contact: deeshcode@gmail.com
-
 <br>
 <div align="left">
   <a href="https://rackgenius.com">
