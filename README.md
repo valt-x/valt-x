@@ -13,9 +13,12 @@ Most things here started because something annoyed me.
 Code is iterative and may change without notice.
 
 Contact: deeshcode@gmail.com
+
 <br>
 <div align="center">
   <a href="https://rackgenius.com">
-    <img src="https://rackgenius.com/assets/img/logo.png" width="180" alt="RackGenius">
+    <img src="https://rackgenius.com/rackgenius-logo.png" width="250" alt="RackGenius">
   </a>
+  <br>
+  <sub>Powered by RackGenius</sub>
 </div>
