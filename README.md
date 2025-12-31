@@ -17,7 +17,8 @@ Contact: deeshcode@gmail.com
 <div align="left">
   <h3>⚡ Infrastructure</h3>
   <a href="https://rackgenius.com">
-    <img src="https://img.shields.io/badge/Powered_By-RackGenius-black?style=for-the-badge&logo=server&logoColor=white" alt="RackGenius">
+    <img src="https://img.shields.io/badge/RACKGENIUS-COMPUTE-000000?style=for-the-badge&logoColor=white" alt="RackGenius">
   </a>
+  <br>
+  <sub>High-Performance Ryzen VPS</sub>
 </div>
-
