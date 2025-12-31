@@ -13,13 +13,11 @@ Most things here started because something annoyed me.
 Code is iterative and may change without notice.
 
 Contact: deeshcode@gmail.com
-<br>
 
 <div align="left">
-  <a href="mailto:deeshcode@gmail.com"><b>Email Me</b></a> — <i>I usually respond within 12 hours.</i>
-  <br><br>
-  <sub>Powered by</sub>&nbsp;
+  <h3>⚡ Infrastructure</h3>
   <a href="https://rackgenius.com">
-    <img src="https://rackgenius.com/assets/img/logo-dark.png" height="25" alt="RackGenius" valign="middle">
+    <img src="https://img.shields.io/badge/Powered_By-RackGenius-black?style=for-the-badge&logo=server&logoColor=white" alt="RackGenius">
   </a>
 </div>
+
