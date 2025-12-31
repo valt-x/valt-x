@@ -14,8 +14,8 @@ Code is iterative and may change without notice.
 
 Contact: deeshcode@gmail.com
 <br>
-<div align="left">
+<div align="center">
   <a href="https://rackgenius.com">
-    <img src="https://img.shields.io/badge/RACKGENIUS-COMPUTE-000000?style=for-the-badge&logoColor=white" alt="RackGenius">
+    <img src="https://rackgenius.com/assets/img/logo.png" width="180" alt="RackGenius">
   </a>
 </div>
