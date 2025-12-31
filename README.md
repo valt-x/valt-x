@@ -14,10 +14,12 @@ Code is iterative and may change without notice.
 
 Contact: deeshcode@gmail.com
 <br>
-<code style="background: transparent;">
-  <b>System Status:</b> Nodes Online via 
+
+<div align="left">
+  <a href="mailto:deeshcode@gmail.com"><b>Email Me</b></a> — <i>I usually respond within 12 hours.</i>
+  <br><br>
+  <sub>Powered by</sub>&nbsp;
   <a href="https://rackgenius.com">
-    <img src="https://rackgenius.com/assets/img/logo-dark.png" height="16" valign="middle" alt="RackGenius">
+    <img src="https://rackgenius.com/assets/img/logo-dark.png" height="25" alt="RackGenius" valign="middle">
   </a>
-</code>
-<br>
+</div>
