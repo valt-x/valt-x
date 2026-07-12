@@ -1,12 +1,6 @@
 # moved to codeberg 
 
-## still caring this octopus for sake,  meant github
+## just keeping this octopus around for the sake of it, meant github
 ## Contact: deeshcode@gmail.com
 
-<div>
- <h3> <a href="https://codeberg.org/valt-aoi">here 
-
-  </a>
-  </h3>
-</div>
-
+### [Teleport to Codeberg](https://codeberg.org/valt-aoi)
