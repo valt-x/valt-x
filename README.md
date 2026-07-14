@@ -4,3 +4,5 @@
 ## Contact: deeshcode@gmail.com
 
 ### [Teleport to Codeberg](https://codeberg.org/valt-aoi)
+
+###co dev at jenniecharts.com , for more info dm x.com/valtaoiz
