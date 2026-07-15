@@ -5,4 +5,4 @@
 
 ### [Teleport to Codeberg](https://codeberg.org/valt-aoi)
 
-### co dev at [jenniecharts](https://jenniecharts.com/) , for more info dm [x/twitter](https://x.com/valtaoiz)
+### co dev at [jenniecharts](https://jenniecharts.com/) , for more info dm  me [x/twitter](https://x.com/valtaoiz) or [ team lead ](https://x.com/GENIUS9N)
