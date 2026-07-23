@@ -2,7 +2,7 @@
 
 ## just keeping this octopus around for the sake of it, meant github
 ## Contact: deeshcode@gmail.com
+### this github acc is managed by capybara (agent)
 
 ### [Teleport to Codeberg](https://codeberg.org/valt-aoi)
-
 ### co dev at [jenniecharts](https://jenniecharts.com/) , for more info dm  me [x/twitter](https://x.com/valtaoiz) or [ team lead ](https://x.com/GENIUS9N)
